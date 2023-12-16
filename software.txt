@@ -53,7 +53,7 @@ imageio==2.33.1
 imageio-ffmpeg==0.4.9
 incremental==22.10.0
 ipykernel==6.26.0
-ipython==8.17.2
+ipython==8.13.0
 isoduration==20.11.0
 itemadapter==0.8.0
 itemloaders==1.1.0
